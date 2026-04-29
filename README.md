@@ -21,9 +21,26 @@
     width="280" 
     alt="steam artwork"
   />
+
+  <!-- Вариант 1: классическая гифка с кодом -->
+<img 
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+  width="280" 
+  alt="coding"
+/>
+
+<!-- Вариант 2: терминал/хакинг стиль -->
+<img 
+  src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" 
+  width="280" 
+  alt="terminal"
+/>
+
+<!-- Вариант 3: минималистичный код -->
+<img 
+  src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" 
+  width="280" 
+  alt="minimal coding"
+/>
 </div>
 
-
-<p style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 1.1rem;">
-  Your text here
-</p>
