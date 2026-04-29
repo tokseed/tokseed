@@ -11,7 +11,7 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
   <img 
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+    src="ttps://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyN2JpZGp1em5pa3ozYThhOW83Z3RwMWxzcXN3N21jdmQ1a2p5a2UyaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DSxKEQoQix9hC/giphy.gif" 
     width="280" 
     alt="coding"
   />
