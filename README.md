@@ -2,7 +2,7 @@
   💻 Hi there, I'm 
   <a href="https://Paulsthat.ru/" target="_blank" style="text-decoration: none; border-bottom: 2px solid #58a6ff;">
     Pavel
-  </a> ✨
+  </a> 
 </h1>
 
 <h3 align="center" style="font-weight: 400; letter-spacing: -0.3px;">
