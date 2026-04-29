@@ -3,7 +3,7 @@
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
 <img 
-  src="[https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyc2lmbmhubzl2OW0zdjNleGc0ZTk3ZnR1c2F2dThrdDA5Zjd3ZTdkNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oxFDq4E9CHb7W/giphy.gif](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fone-peice&opi=89978449)" 
+  src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fone-peice&opi=89978449" 
   style="position: relative; left: 20px;" 
   alt="fck"
 />
