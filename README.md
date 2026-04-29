@@ -2,5 +2,4 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
-# Hi there, I'm [Paul](//Paulsthat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-### Computer science student, IT news writer from Russia 🇷🇺
+![Kanye](https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyc2lmbmhubzl2OW0zdjNleGc0ZTk3ZnR1c2F2dThrdDA5Zjd3ZTdkNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oxFDq4E9CHb7W/giphy.gif)
