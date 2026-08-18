@@ -12,17 +12,4 @@
 
 
 
-
-### 🛠 About me:
-
 **I am a student from Russia. I am currently studying C# and .NET programming.**
-
-
-### 💻 Технологии и инструменты:
-<br clear="both"/>
-
-### 📊 Статистика GitHub:
-
-![Статистика GitHub](https://vercel.app)
-
-![Мои языки](https://vercel.app)
