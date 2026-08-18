@@ -11,16 +11,18 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
   <img 
-    src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyN2JpZGp1em5pa3ozYThhOW83Z3RwMWxzcXN3N21jdmQ1a2p5a2UyaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DSxKEQoQix9hC/giphy.gif" 
+    src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=600&q=80" 
     width="280" 
-    alt="coding"
+    alt="Developer Setup"
+    style="border-radius: 8px; object-fit: cover; aspect-ratio: 16/9;"
   />
-  <!-- Замените URL ниже на РАБОЧУЮ ссылку вашей Steam картинки -->
-  <img 
-    src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZzYmxpYXNqNGhlYjRqMnM5bzNiaHIxOGQzdzA5dmRobjN1dmh6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif](https://i.pinimg.com/736x/9b/a1/f7/9ba1f76dfa330f802686abd495841b6d.jpg)" />
-    width="280" 
-    alt="steam artwork placeholder"
-  />
+
+  <a href="https://steamcommunity.com/" target="_blank">
+    <img 
+      src="https://i.pinimg.com/736x/9b/a1/f7/9ba1f76dfa330f802686abd495841b6d.jpg" 
+      width="280" 
+      alt="Steam Profile Showcase"
+      style="border-radius: 8px; object-fit: cover; aspect-ratio: 16/9;"
+    />
+  </a>
 </div>
-
-
