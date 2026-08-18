@@ -1,3 +1,9 @@
+
+<link rel="preconnect" href="https://googleapis.com">
+<link rel="preconnect" href="https://gstatic.com" crossorigin>
+<link href="https://googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+
+
 ### 富 福 
 
 I am a student from Russia! I am currently studying C# and .NET programming.
