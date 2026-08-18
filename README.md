@@ -1,5 +1,3 @@
-<img width="736" height="1308" alt="image" src="https://github.com/user-attachments/assets/f73569a8-7c0c-4b59-8313-42e6b263dbc4" />
-<p align="right">
   <font face="Arial">
       富 福
   </font>
