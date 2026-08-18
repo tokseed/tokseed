@@ -1,7 +1,9 @@
-<img width="900" height="1200" alt="image" src="https://github.com/user-attachments/assets/63968867-0231-4601-8005-868c3a2fdea7" /><img width="900" height="1200" alt="image" src="https://github.com/user-attachments/assets/5e3dfa12-c5d0-4683-aa62-7c26159ad687" />  <font face="Arial">
-      富 福
-  </font>
-</p>
+
+<p align= right
+      
+富 福
+/>
+
 
 ## Hello! I am a student from Russia. I am currently studying C# and .NET programming.
   
