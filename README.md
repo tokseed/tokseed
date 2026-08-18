@@ -9,20 +9,12 @@
   Computer science student · IT student from Russia 🇷🇺
 </h3>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
+<div align="center" style="margin-top: 20px;">
+  <!-- Левое изображение убрано. Правое изображение растянуто. -->
   <img 
-    src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=600&q=80" 
-    width="280" 
-    alt="Developer Setup"
-    style="border-radius: 8px; object-fit: cover; aspect-ratio: 16/9;"
+    src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZzYmxpYXNqNGhlYjRqMnM5bzNiaHIxOGQzdzA5dmRobjN1dmh6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif](https://i.pinimg.com/736x/9b/a1/f7/9ba1f76dfa330f802686abd495841b6d.jpg)" />
+    width="100%" 
+    style="max-width: 600px; display: block; margin-left: 0; margin-right: auto;"
+    alt="steam artwork placeholder"
   />
-
-  <a href="https://steamcommunity.com/" target="_blank">
-    <img 
-      src="https://i.pinimg.com/736x/9b/a1/f7/9ba1f76dfa330f802686abd495841b6d.jpg" 
-      width="280" 
-      alt="Steam Profile Showcase"
-      style="border-radius: 8px; object-fit: cover; aspect-ratio: 16/9;"
-    />
-  </a>
 </div>
