@@ -7,7 +7,7 @@
 
 <p align="center">
   <font face="Arial" size=25> 
-    Hello! I am a student from Russia. I am currently studying C# and .NET programming.
+    ##Hello! I am a student from Russia. I am currently studying C# and .NET programming.
   </font>
 <p/>
   
