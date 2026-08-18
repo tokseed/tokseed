@@ -1,16 +1,12 @@
 
-<link rel="preconnect" href="https://googleapis.com">
-<link rel="preconnect" href="https://gstatic.com" crossorigin>
-<link href="https://googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet"> 
-
 <p align="right">
-  <font face="Arial, sans-serif" size="4" color="#333333">
+  <font face="Arial">
       富 福
   </font>
 </p>
 
 <p align="center">
-  <font face="Arial" size=16> 
+  <font face="Arial" size=25> 
     Hello! I am a student from Russia. I am currently studying C# and .NET programming.
   </font>
 <p/>
