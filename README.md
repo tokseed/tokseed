@@ -1,19 +1,23 @@
-<h1 align="center">
-  💻 Hi there, I'm 
-  <a href="https://Paulsthat.ru/" target="_blank" style="text-decoration: none; border-bottom: 2px solid #58a6ff;">
-    Pavel
-  </a> 
-</h1>
+### Привет, я рад видеть вас здесь! 👋
 
-<h3 align="center" style="font-weight: 400; letter-spacing: -0.3px;">
-  Computer science student · IT student from Russia 🇷🇺
-</h3>
+Я начинающий разработчик, который любит создавать полезные программы и изучать новые технологии.
 
-<div align="center" style="margin-top: 20px;">
-  <img 
-    src="https://i.pinimg.com/736x/9b/a1/f7/9ba1f76dfa330f802686abd495841b6d.jpg" 
-    width="100%" 
-    style="max-width: 600px; display: block; margin: 0 auto;"
-    alt="steam artwork placeholder"
-  />
-</div>
+### 🛠 Обо мне:
+- 🔭 В данный момент я изучаю **Разработку ПО**
+- 💬 Спрашивайте меня о чем угодно, я всегда готов помочь
+- 📫 Как со мной связаться: [Ваш Telegram или Email]
+
+### 💻 Технологии и инструменты:
+<img align="left" alt="JavaScript" width="40px" src="https://githubusercontent.com" />
+<img align="left" alt="HTML5" width="40px" src="https://githubusercontent.com" />
+<img align="left" alt="CSS3" width="40px" src="https://githubusercontent.com" />
+<img align="left" alt="Python" width="40px" src="https://githubusercontent.com" />
+<img align="left" alt="Git" width="40px" src="https://githubusercontent.com" />
+
+<br clear="both"/>
+
+### 📊 Статистика GitHub:
+
+![Статистика GitHub](https://vercel.app)
+
+![Мои языки](https://vercel.app)
