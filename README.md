@@ -10,6 +10,9 @@
 <img src="https://i.pinimg.com/1200x/97/ab/8a/97ab8a78bbc77d95bfffce147d72b55f.jpg" align="right" alt="one piece" width=180 height=400 />
 <img src="https://i.pinimg.com/1200x/b7/82/6f/b7826f57c193ac72661ba8690af6c11a.jpg" align="left" alt="one piece" width=180 height=400 />
 
+
+
+
 ### 🛠 About me:
 
 **I am a student from Russia. I am currently studying C# and .NET programming.**
